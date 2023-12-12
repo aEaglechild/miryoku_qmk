@@ -17,7 +17,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #pragma once
-
+#define SPLIT_USB_DETECT
 
 #define MATRIX_ROW_PINS \
     { D4, C6, D7, E6 }
